@@ -1,7 +1,7 @@
-# exchange-rate-and-currency-converter
+# Up to date exchange rates
 CLI to get exchange rates.
 
-### requirementes
+## requirementes
 - Python 3.5
 
 ## To use this tool
