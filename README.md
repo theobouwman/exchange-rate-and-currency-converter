@@ -14,4 +14,8 @@ CLI to get exchange rates.
 
 All availabel currencies are listed by running with `--list` or `-l`
 
+### examples
+`python3.5 main.py --currency EUR` will return the exchange rate against the Euro
+`python3.5 main.py --symbols EUR,USD` will only return the exchange rate of the USD against the Euro
+
 Only works when http://fixer.io/ is up and running.
